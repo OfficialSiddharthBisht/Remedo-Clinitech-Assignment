@@ -1,0 +1,51 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Sample Task",
+      "description": "This is a sample task",
+      "status": "Done",
+      "createdAt": "2024-03-28T09:45:00.000Z",
+      "notes": "notes for the subtasks",
+      "subtasks": [
+        {
+          "id": "d443dd67-ba10-4e3d-b1da-fa07d613b7f2",
+          "description": "1",
+          "completed": false,
+          "createdAt": "2025-03-29T07:37:23.640Z"
+        },
+        {
+          "id": "9d8b66f9-b53b-4526-99be-d29fec0455f9",
+          "description": "2",
+          "completed": true,
+          "createdAt": "2025-03-29T07:37:28.385Z"
+        }
+      ]
+    },
+    {
+      "id": "fbb4",
+      "title": "A new task",
+      "description": "",
+      "status": "Done",
+      "createdAt": "2025-03-29T07:38:22.875Z",
+      "notes": "",
+      "subtasks": []
+    },
+    {
+      "id": "e1ce",
+      "title": "some more task",
+      "description": "some description",
+      "status": "To Do",
+      "createdAt": "2025-03-29T07:38:47.325Z",
+      "notes": "",
+      "subtasks": [
+        {
+          "id": "393df03f-ba10-44c5-b600-9937ad7533a1",
+          "description": "subtask 1",
+          "completed": false,
+          "createdAt": "2025-03-29T07:39:01.988Z"
+        }
+      ]
+    }
+  ]
+}
