@@ -99,8 +99,8 @@ taskington-next/
 ![Homepage](./screenshots/image.png)
 ![Task Card Modal](./screenshots/image1.png)
 ![Subtasks](./screenshots/image3.png)
-![Notes](./screenshots/image4.png)
-![alt text](image-1.png)
+![Notes](./screenshots/image5.png)
+![alt text](./screenshots/image-6.png)
 
 ## Video 
 [Video Link](https://youtu.be/A1t4IotjmiA)  
